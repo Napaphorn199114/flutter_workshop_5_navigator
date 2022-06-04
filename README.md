@@ -1,6 +1,6 @@
 # workshop_5_navigator
 
-A new Flutter project.
+Picture file name Example Screenshot_Project
 
 ## Getting Started
 
